@@ -1,0 +1,1 @@
+summon minecraft:vindicator ~ ~ ~ {Tags:["iceologer"]}

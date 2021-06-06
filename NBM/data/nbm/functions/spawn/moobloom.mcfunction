@@ -1,0 +1,1 @@
+summon minecraft:cow ~ ~ ~ {Tags:["moobloom"]}
