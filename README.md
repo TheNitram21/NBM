@@ -11,7 +11,7 @@
 
 ## Mobs
 ### Iceologer
-This hostile mob can not only attack you using an iron axe, it can also drop ice blocks on your head. Be careful when you explore!
+This hostile mob can not only attack you using an iron axe, it can also drop ice blocks on your head. They have blue leather caps. Be careful when you explore!
 
 ### Moobloom
 Mooblooms are friendly mobs. They are cows with a flower on it's back. When bees come near it, they immediately get some nectar, so mooblooms are perfect for honey farms!
