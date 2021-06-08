@@ -13,3 +13,5 @@ execute as @e[tag=nbm.sib] at @s run effect give @p[distance=..1] minecraft:with
 tag @e[tag=nbm.csib] remove nbm.csib
 
 execute as @e[tag=nbm.sib] at @s unless block ~ ~-0.15 ~ minecraft:air run kill @s
+
+execute as @e[type=minecraft:vindicator,tag=iceologer] run data merge entity @s {ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b,tag:{display:{color:1153450}}}]}
