@@ -26,4 +26,5 @@ Mooblooms are friendly mobs. They are cows with a flower on it's back. When bees
 - `nbm:spawn/moobloom`: Spawns an moobloom.
 
 ## Download
-To get the datapack, click on the latest release on the right, download the `NitramsBetterMobsVERSION.zip` and then put it in the `datapacks` folder of your world. Enjoy!
+To get the datapack, click on the latest release on the right, download the `NitramsBetterMobsVERSION.zip` and then put it in the `datapacks` folder of your world. To play in 1.16, unzip the datapack, open the `pack.mcmeta` and replace the `7` at `pack_format` with a `6`. Enjoy!
+ 
